@@ -1,0 +1,19 @@
+{
+    "world": "all the world",
+    "price": "price",
+    "model": "car model",
+    "date": "year",
+    "state": "state",
+    "cars":"cars",
+    "parts": "parts",
+    "accesories":"accesories",
+    "new":"new",
+    "sale":"for sale",
+    "rent":"for rent",
+    "filter":"filter",
+    "search":"search",
+    "location": "choose your location",
+    "order":"order",
+    "save":"save",
+    "category":"category"
+}
